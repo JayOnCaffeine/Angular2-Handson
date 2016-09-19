@@ -2,8 +2,9 @@
   "name": "angular2-handson",
   "version": "1.0.0",
   "description": "angular 2 hands on project",
-  "main": "server.js",
   "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
